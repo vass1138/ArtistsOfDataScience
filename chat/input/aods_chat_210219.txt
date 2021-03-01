@@ -1,0 +1,255 @@
+16:34:48	 From Thomas Ives : Kushal my man!
+16:35:11	 From Thomas Ives : SUSAAAAAANNNNN!
+16:35:54	 From Kushal Dev : Howdy Thom !!!!
+16:36:47	 From Susan Walsh : Hey hey
+16:37:19	 From Wilson Man : Hello. :D
+16:37:26	 From Vikram Krishna Kotturu : Hey Thom
+16:37:31	 From Vikram Krishna Kotturu : Hey Kushal
+16:37:32	 From Kushal Dev : Hii Wilson :D
+16:37:50	 From Wilson Man : Hi Kushal!
+16:37:55	 From Kushal Dev : Brother Vikram is here :D!
+16:37:59	 From Al Bellamy : what's up Wilson? #teamsquirrel #Friyay
+16:38:16	 From Wilson Man : hahaha, yes #teamsquirrel !
+16:38:24	 From Al Bellamy : feels like I've been hanging out with Thom, Wilson, Vikram all day!
+16:38:31	 From Brandon Quach : Hi Everyone!
+16:38:44	 From Vikram Krishna Kotturu : Its my pleasure Albert
+16:38:50	 From Russell Willis : Evening all.
+16:38:52	 From Wilson Man : That's how you know it's been a good day. Because of Thom, obviously. ;)
+16:39:09	 From Al Bellamy : I'm not complaining.
+16:39:16	 From Vikram Krishna Kotturu : Hi Greg !!
+16:39:17	 From Kushal Dev : How it's going Eric !!
+16:39:22	 From Eric Sims : Hey Kushal!
+16:39:24	 From Greg Coquillo : Hey Vikram!
+16:39:29	 From Kushal Dev : Hii Greg :D !!
+16:39:36	 From Greg Coquillo : Hey Kushal!
+16:39:41	 From Mitul Patel : Hey all
+16:39:44	 From Thomas Ives : Vikram!!!
+16:40:09	 From Thomas Ives : AL my man!
+16:40:32	 From Thomas Ives : Wilson! Appreciate that - our community is SO MUCH FUN!
+16:40:39	 From Thomas Ives : Greg!
+16:40:50	 From Greg Coquillo : Hey Thomas!!
+16:41:01	 From Greg Coquillo : Or Thom!!!
+16:41:12	 From Eric Sims : Hey Susan - nice new digs! :)
+16:41:12	 From Thomas Ives : Eric Simms - THE MAN! The ONE TO WATCH!
+16:41:34	 From Eric Sims : Haha, like Saturday morning cartoons!
+16:41:56	 From Jennifer Nardin : THAT is when you know youâve made it: Thom calls you the man  :)
+16:42:13	 From Eric Sims : ^^
+16:42:18	 From Thomas Ives : No Jennifer - it's when Susan calls you that.
+16:42:19	 From Susan Walsh : Well heâs totally right ð
+16:42:24	 From Susan Walsh : ð
+16:42:35	 From Jennifer Nardin : Fact.
+16:43:05	 From Eric Sims : @Joe, what kind of music do you make on all that equipment behind you?
+16:43:18	 From Joe Reis : House, techno
+16:43:38	 From Eric Sims : Awesome! I don't know how I didn't notice that until I saw it in your background earlier this week
+16:43:45	 From Joe Reis : Thatâs a hybrid DJ/live setup
+16:43:47	 From Susan Walsh : I love house & techno
+16:43:56	 From Joe Reis : ^ !
+16:44:03	 From Eric Sims : How do you describe house?
+16:44:42	 From Thomas Ives : Joe!
+16:44:44	 From Susan Walsh : glow sticks and doof doof
+16:44:52	 From Joe Reis : lolz. What Susan said
+16:44:57	 From Russell Willis : Start small and iterate... Taking too large a bite at once, can be a large swallow for the creators and a HUGE issue for those whose paradigms it will change!
+16:45:24	 From Mikiko Bazeley : No! Not too late to learn the principles!
+16:45:32	 From Thomas Ives : What Russell said!
+16:45:55	 From Thomas Ives : What Mikiko said!
+16:48:12	 From Harpreet Sahota : If anyone has questions, let me know!!
+16:48:21	 From Mikiko Bazeley : +1 to Joe
+16:50:06	 From Russell Willis : like the law of diminishing returns...
+16:52:15	 From Eric Sims : What's up, Mark!
+16:52:27	 From Kushal Dev  To  Harpreet Sahota(privately) : This Time, won't leave without asking Question ;)
+16:52:33	 From Harpreet Sahota  To  Kushal Dev(privately) : Youâre next!
+16:52:39	 From Mikiko Bazeley : Feature stores feel like the next battlefield between the desire to standardize ML ops for steadier production & the desire to stay flexible and creative
+16:52:57	 From Vikram Krishna Kotturu : +1 Mikiko
+16:52:59	 From Vin Vashishta : ME TOO, it's endless.
+16:53:13	 From Joe Reis : truly
+16:53:14	 From Greg Coquillo : https://www.linkedin.com/posts/greg-coquillo_datascience-machinelearning-artificialintelligence-activity-6760977800963985408-ys5y
+16:53:22	 From Thomas Ives : It's remembering all the shit that's hard too!
+16:53:24	 From Matthew Housley : @mikiko Interesting. Yeah, that encapsulates it pretty well.
+16:53:38	 From Harpreet Sahota  To  Mikiko Bazeley(privately) : Great point about feature stores - please do share with the audio!
+16:53:44	 From Eric Sims : Today's happy hour content is going over my head like 100 Starlink satellites ð
+16:53:47	 From Mikiko Bazeley : We were having this argument-debate with the cofounding team
+16:53:57	 From Thomas Ives : Eric ;-)
+16:54:15	 From Thomas Ives : Mikiko, I think I will just start quoting you and sleep more!
+16:54:21	 From Kushal Dev : Same Eric ;)
+16:54:21	 From Mikiko Bazeley : <3
+16:54:31	 From Matthew Housley : And ideally, an organization needs to maintain both, but thatâs a struggle even in a large company, let alone a startup with limited resources.
+16:54:52	 From Brandon Quach : Thatâs one of the reasons I come to office hours. I learn from all of you about new technologies that I donât get to see or explore doing my day to day work
+16:56:13	 From Thomas Ives : Agreed Brandon!
+16:56:50	 From Russell Willis : +1 @Brandon
+16:58:14	 From Mark Freeman : I have a question. Can I please be added to the que?
+16:58:24	 From Harpreet Sahota : Yes! Added
+16:58:40	 From Joe Reis : This is a VERY good talk on the most cutting edge thing Iâve seen - The Evaluation Store
+16:58:41	 From Joe Reis : https://www.youtube.com/watch?v=o4q_ljRkXqw
+16:58:58	 From Tor Rorvik : "Audit Trail" comes to mind
+16:59:17	 From Russell Willis : should we expect "Feature Stores" content to be monetised, for wider distribution, or kept protected as internal IP?
+16:59:31	 From Joe Reis : ^ this is a good question
+16:59:54	 From Mikiko Bazeley : One of the ideas we came up with was to have a dev-prod staging setup for features to get logged â I.e. have a raw table/stage and then evaluate features after theyâve shown to be valuable on a longer term
+17:00:09	 From Mikiko Bazeley : Similar to forecasts and reports
+17:00:58	 From Mikiko Bazeley : @Mark- Love the background! DuBois for the win!
+17:01:04	 From Eric Sims : ^^
+17:02:01	 From Russell Willis : @Mark are you talking about an incremental load function, that only loads recent changing data, rather than reload everything including static data from months ago?
+17:04:51	 From Greg Coquillo : I have a follow up question too on this for Mark, Joe and Matthew
+17:05:02	 From Harpreet Sahota : Go for it!
+17:05:53	 From Meenal Iyer : Hello everyone. Enjoying the conversations here. Need to drop off for a meeting , but hoping to join another one of these. Have a wonderful Friday and weekend!
+17:06:05	 From Joe Reis : Later Meenal!
+17:06:07	 From Eric Sims : See you, Meenal!
+17:06:20	 From Thomas Ives : Bye Meenal!
+17:06:24	 From Mikiko Bazeley : A resource I thought was really helpful for understanding partitioning: https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch06.html
+17:06:32	 From Mikiko Bazeley : Itâs a good chapter
+17:06:39	 From Russell Willis : Follow up - Do any providers incorporate passive partitioning (Intelligently applied) depending upon the type and class of data being loaded/queried, so as to reduce their utilised bandwidth, or is this counter intuitive to their revenue generation?
+17:07:33	 From Harpreet Sahota : If anyone has a question - doesnât have to be related to the topic at hand - message me!  I will add you to the queue
+17:07:55	 From Mikiko Bazeley : @Russell: Snowkflake claims too I believe (https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions.html)
+17:07:57	 From Harpreet Sahota : Look at all these amazing resources and experiences for you to tap into!
+17:08:40	 From Matthew Housley : Yeah, Snowflake claims that they periodically auto recluster, and you can manually do this as well.
+17:09:01	 From Mikiko Bazeley : I know when we were talking to Snowflake their claims were that they were easier on the admin/maintenance than Redshift (although they âtechnicallyâ couldnât say so as a Redshift partner)
+17:09:51	 From Harpreet Sahota  To  Juico Bowley(privately) : Youâre up next
+17:09:59	 From Juico Bowley  To  Harpreet Sahota(privately) : Woord
+17:10:09	 From Matthew Housley : BigQuery claims that they more aggressively auto recluster, but they can manually force a recluster by selecting the data into a new table.
+17:10:30	 From Joe Reis : @mikiko - Weâre partners with AWS and Snowflake, but we _can_ say this is arguably true
+17:11:08	 From Mikiko Bazeley : Cool! We ended up going with Snowflake as being startup friendlier so thatâs validating
+17:11:19	 From Eric Sims : Can you use Box-Tidwell to suss out the degree of the relationship?
+17:11:26	 From Matthew Housley : @mikiko In this case, I definitely agree with Snowflake. While AWS has made a lot of efforts to add new features to Redshift, they carry a lot of tech debt that BigQuery and Snowflake simply donât have.
+17:11:27	 From Joe Reis : Nice. Let us know if you have questions as you use Snowflake
+17:11:35	 From Mikiko Bazeley : Totes!
+17:12:16	 From Matthew Housley : I feel like you canât go wrong with Snowflake or BigQuery at this point - theyâre basically copying each otherâs features now.
+17:12:40	 From Mikiko Bazeley : XD
+17:12:46	 From Matthew Housley : It largely comes down to which cloud you want to be on, and whether or not you need multicloud support.
+17:12:47	 From Joe Reis : Even Redshift is very good too. Itâs really a question of how hands on you want to be.
+17:12:50	 From Mark Freeman : Have you checked out the stats flow chart in the latest newsletter? Itâs amazing! https://drive.google.com/file/d/1qkURyDrEa4IkQRm0in26CNIpP84ws0Tf/view
+17:13:50	 From Matthew Housley : @mark Cool! I had not looked at this.
+17:13:51	 From Harpreet Sahota : https://realpython.com/numpy-scipy-pandas-correlation-python/
+17:13:58	 From Jennifer Nardin : Great flow chart!
+17:14:02	 From Mitul Patel : https://easystats.github.io/correlation/articles/types.html in R
+17:14:28	 From Eric Sims : You can use Pandas-Profiling to look at those different correlation measures in your data
+17:14:29	 From Brandon Quach : Thanks everyone!  Had a great time, need to jump to my next meeting.  Have a good weekend!
+17:14:43	 From Joe Reis : See ya Brandon
+17:14:59	 From Harpreet Sahota  To  Thomas Ives(privately) : Want to add here?
+17:15:38	 From Al Bellamy : I'm super excited... I think this is the first time I've seen Kushal's face!
+17:16:19	 From Kushal Dev : Totally agree Al!
+17:17:07	 From Russell Willis : @Harpreet Often those with the problem cannot elucidate it sufficiently for others to solve. I think It is a very good skill to be able to interpret incomplete explanations/data, in different ways, depending upon the origin?
+17:17:07	 From Mark Freeman : Also, there is the Predictive Power Score: https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598
+17:17:42	 From Eric Sims : @Kushal, if you're looking at a binary outcome, you could use a Box-Tidwell transformation or a spline function (GAM) to figure out what degree of relationship exists
+17:17:57	 From Eric Sims : Can't touch this!
+17:18:21	 From Harpreet Sahota : Excellent point Russ!
+17:18:31	 From Thomas Ives  To  Harpreet Sahota(privately) : ;-) Just now seeing this
+17:19:14	 From Faraaz Sheriff  To  Harpreet Sahota(privately) : Thanks, Harpreet. I would have to drop off. Have a great weekend! :)
+17:19:28	 From Harpreet Sahota  To  Faraaz Sheriff(privately) : Cheers! If you have a question before you leave let me know
+17:19:39	 From Faraaz Sheriff  To  Harpreet Sahota(privately) : I'm good. thanks
+17:19:46	 From Vin Vashishta : So sounds like what all of us do.
+17:19:56	 From Eric Sims : There goes my monthly free Medium article allotment!
+17:20:25	 From Thomas Ives : Eric, I hear ya!
+17:20:25	 From Kushal Dev : Thanks @Eric! Box Tidwell Transform is something New, going to have hands-on for sure!
+17:20:25	 From Harpreet Sahota : Open an incognito window and you can bypass
+17:20:33	 From Joe Reis : Tor
+17:20:45	 From Joe Reis : (The browser)
+17:20:53	 From Mikiko Bazeley : XD
+17:21:16	 From Russell Willis : Isn't one of the biggest problems with web scraping, that GDPR (or other data privacy regulations) differ globally?
+17:21:24	 From Kushal Dev : Loved the resource @Mark Very Helpful!
+17:21:46	 From Eric Sims : @Kushal - Box-Tidwell is cool because it will give you the exact exponent.  The only drawback is you can't have zeros or negative numbers in the column.  You can use a GAM to get around that, but you just have to eyeball the curve to see if it's quadratic, cubic, etc.
+17:21:50	 From Harpreet Sahota  To  Russell Willis(privately) : Great point, bring this up!
+17:22:38	 From Harpreet Sahota  To  Joe Reis(privately) : Do you want to add here?
+17:23:34	 From Eric Sims : Selenium is Python
+17:23:51	 From Mikiko Bazeley : It seems the issue is how to centralize
+17:23:54	 From Mikiko Bazeley : Ad deploy
+17:24:24	 From Mikiko Bazeley : Real Python and DataCamp are great resources
+17:24:25	 From Mikiko Bazeley : https://realpython.com/courses/python-lambda-functions/
+17:24:35	 From Mikiko Bazeley : https://learn.datacamp.com/courses/streaming-data-with-aws-kinesis-and-lambda
+17:24:53	 From Kushal Dev : @Eric - Ah! GAM looks good for my case! Surely Insightful
+17:25:04	 From Eric Sims : @Kushal - Awesome!
+17:25:06	 From Jennifer Nardin  To  Harpreet Sahota(privately) : Back to Intel for me â¦ thanks for keeping the conversation going this afternoon, you are a MASTER facilitator!
+17:25:11	 From Harpreet Sahota  To  Jennifer Nardin(privately) : Cheers!!
+17:25:13	 From Eric Sims : @Juico - I once upon a time had a run-in with an image copyright troll.  They don't mess around, and they are nasty.  A buyer's indemnity clause saved my bacon, so yeah, be careful with that.
+17:25:42	 From Harpreet Sahota  To  Eric Sims(privately) : After Torâs question, tell us about GAMs?
+17:25:43	 From Mark Freeman : Lambda Doc as I always get lost in AWS docs: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.html
+17:26:16	 From Eric Sims  To  Harpreet Sahota(privately) : Oh man, I don't know much!  Just that it fits a spline function and then you have to eyeball it to determine the relationship...
+17:26:26	 From Harpreet Sahota  To  Eric Sims(privately) : No worries - weâll padd
+17:26:26	 From Matthew Housley : Scrapping almost always violates terms of service, but enforceability varies. Definitely watch out for the trolls.
+17:26:27	 From Joe Reis : rtfm
+17:26:44	 From Joe Reis : Yeah, and make sure youâre not doing anything to get shut down by AWS
+17:26:54	 From Joe Reis : (Parler, cough cough)
+17:26:54	 From Mark Freeman : There I goâ¦ getting lost in AWS docs again. Here is the real link: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+17:26:58	 From Eric Sims  To  Harpreet Sahota(privately) : If we come to a topic where I know a little more, I'll be more than happy to share :)
+17:27:13	 From Mikiko Bazeley : AWS also has a series of courses hosted on Coursera â itâs a useful way to walk through the apps and is Amazon hosted
+17:27:20	 From Mikiko Bazeley : *Amazon authored
+17:27:45	 From Eric Sims : LinkedIn scraping ruling???
+17:28:06	 From Kristen Davis : Will you speak more about that case/ ruling?
+17:28:14	 From Mikiko Bazeley : Last year/year before: https://www.forbes.com/sites/emmawoollacott/2019/09/10/linkedin-data-scraping-ruled-legal/?sh=a0f2baa1b54b
+17:28:18	 From Mikiko Bazeley : For the ruling
+17:28:20	 From Joe Reis : https://www.eff.org/deeplinks/2019/09/victory-ruling-hiq-v-linkedin-protects-scraping-public-data
+17:28:25	 From Matthew Housley : If youâre careful about scraping rate, youâre much less likely to run into problems. Be a good citizen and be considerate of whoever owns the servers.
+17:28:46	 From Joe Reis : Matt - youâre saying itâs not ok to ddos someoneâs site?
+17:28:53	 From Joe Reis : What a buzzkill
+17:29:07	 From Mikiko Bazeley : I did that once to Indeed
+17:29:10	 From Mikiko Bazeley : Accidentally
+17:29:18	 From Mikiko Bazeley : My first time learning how to scrape
+17:29:20	 From Joe Reis : lol. You get a medal today
+17:29:20	 From Mikiko Bazeley : Fun times
+17:29:35	 From Matthew Housley : I suspect that many junior data scientists with a dream and an AWS account have done exactly this by using Lambda and not calculating how much traffic theyâre generating.
+17:29:53	 From Mikiko Bazeley : This was 7 years ago, when âGrowth Hackingâ had peaked
+17:30:00	 From Mikiko Bazeley : So pure R power
+17:30:05	 From Matthew Housley : Gotta jump. Have a great weekend and see everyone next week!
+17:31:06	 From Kushal Dev : Have Great Time Matthew!
+17:31:28	 From Mikiko Bazeley : Cost
+17:31:40	 From Eric Sims : I have to jump as well.  Peace, friends!
+17:31:48	 From Mikiko Bazeley : Good candidate for how to get into trouble with Lambda
+17:32:51	 From Mark Freeman : Main takeawayâ¦ I do not want to work on a scraper (especially if I ever freelance)
+17:33:23	 From Juico Bowley : Thanks everyone! Now I'll go through and grab all the nice links for reference! =D
+17:34:01	 From Joe Reis : Gotta jump. Have a great weekend everyone!
+17:34:08	 From Juico Bowley : Peace!
+17:34:10	 From Mikiko Bazeley : @Mark - Itâs sort of easy money though when it comes to billable - like how burger shops make more money on the sides and amenities than the main food items
+17:35:19	 From Kushal Dev : @Mikiko - Awesome Analogy, totally agree!!
+17:36:00	 From Mark Freeman : CRISP-DM!
+17:36:22	 From Akshay Mandke : In Simplest terms it could start with defining a data dictionary
+17:36:32	 From Mark Freeman : CRISP-DM: https://www.datascience-pm.com/crisp-dm-2/
+17:37:40	 From Kushal Dev : Yeahh, Very traditional indeed CRISP-DM!
+17:38:35	 From Harpreet Sahota  To  Vin Vashishta(privately) : Can I get you to contribute next?
+17:40:52	 From Vin Vashishta  To  Harpreet Sahota(privately) : yes
+17:41:06	 From Vin Vashishta  To  Harpreet Sahota(privately) : same question?
+17:41:09	 From Harpreet Sahota  To  Vin Vashishta(privately) : Yeah
+17:41:16	 From Harpreet Sahota  To  Vin Vashishta(privately) : Would love to hear how you handle this
+17:41:24	 From Vin Vashishta  To  Harpreet Sahota(privately) : Definitely
+17:41:51	 From Russell Willis : @Mikiko "Budget" is one of the ambiguous titles in cost data I find!
+17:41:53	 From Ashoordin Ashoormaram : Mikiko, what do we need vs what do we have? Is this the same as saying to know which data/features are useless or not? And if not, to remove the garbage and instead create new useful features?
+17:44:22	 From Mark Freeman : Can I add something to this regarding checking assumptions?
+17:44:41	 From Harpreet Sahota : Sure: letâs hear from vin, them, and then mark on. this
+17:44:52	 From Harpreet Sahota : Then weâll have Ashoordin ask his question, because its great
+17:45:07	 From Harpreet Sahota : Them = thom
+17:45:56	 From Jacqueline LefÃ¨vre LÃ³pez : I have to go. Have a good weekend everyone :)
+17:46:10	 From Thomas Ives : Bye Jacquey
+17:46:15	 From Vikram Krishna Kotturu : Bye Jacquey
+17:46:15	 From Harpreet Sahota : Bye!!!
+17:46:40	 From Kushal Dev : Bye, See you  later Jacqueline !!
+17:46:47	 From Greg Coquillo : Bye Jacqueline
+17:47:20	 From Juico Bowley : Gotta bounce too, thanks for everything again and I'll catch y'all next time!
+17:48:06	 From Kushal Dev : For sure Juico, See ya!
+17:49:05	 From Mikiko Bazeley : @Ashoordin: https://www.linkedin.com/posts/crmercado_datascience-deeplearning-artificialintelligence-activity-6767800296333811712-Jf8r
+17:49:37	 From Mikiko Bazeley : This is a good illustration of how just because you have features, doesnât mean theyâre relevant or sensible
+17:50:46	 From Thomas Ives : What Mikiko said! AND you should be checking the power of those features anyway!
+17:51:40	 From Ashoordin Ashoormaram : Thank you Mikiko,
+17:52:34	 From Ashoordin Ashoormaram : Sure Thomas, that's also an important step to take.
+17:53:02	 From Mikiko Bazeley : @Ashoordin: Another way to think about it is, how would you predict buying a home? Itâs a super long lifecycle, you donât have the data from clickstreams that e-commerce companies have, etc
+17:53:31	 From Mikiko Bazeley : If you just use the data thatâs widely available, youâll most likely get really poor results
+17:53:36	 From Ashoordin Ashoormaram : Yea, good analogy!
+17:54:20	 From Mark Freeman : 5 Steps of Design Thinking: https://voltagecontrol.com/blog/5-steps-of-the-design-thinking-process-a-step-by-step-guide/
+17:54:29	 From Kristen Davis : Thanks to all! Looking forward to next week!
+17:54:45	 From Mark Freeman : Startup Lean Launchpad: https://steveblank.com/category/lean-launchpad/
+17:55:42	 From Ashoordin Ashoormaram : This is a great read Mark! I will definitely take my time to read it.
+17:55:43	 From Mikiko Bazeley : My biggest fan!
+17:55:49	 From Mark Freeman : SAME! Mikiko is awesome
+17:56:23	 From Mikiko Bazeley : <3
+17:56:38	 From Vikram Krishna Kotturu : Mikiko is awesome
+17:56:46	 From Mikiko Bazeley : <3 <3 <3
+17:56:49	 From Kushal Dev : Mikiko is always on top with Resources!
+17:56:55	 From Kushal Dev : I appreciate!
+17:57:08	 From Greg Coquillo : Go Mikiko! My fave!
+17:57:15	 From Mikiko Bazeley : <3 fo everyone! You have a <3 ! You have a <3 !
+17:57:27	 From Vikram Krishna Kotturu : Here's the link:https://join.slack.com/t/artofdatascienceloft/shared_invite/zt-dgzn8abm-ge_dKGxrc9Dsuhnly90WTw
+17:57:43	 From Mikiko Bazeley : Squrespace!
+17:57:44	 From Mark Freeman : Create a script that scrapes zoom chat and posts to slack ;)
+17:57:45	 From Harpreet Sahota : https://join.slack.com/t/artofdatascienceloft/shared_invite/zt-dgzn8abm-ge_dKGxrc9Dsuhnly90WTw
+17:57:46	 From Mikiko Bazeley : Itâs worth it!
+17:58:09	 From Kushal Dev : Join Slack! It's Amazing Indeed!
+17:58:34	 From Tor Rorvik : Awesome meeting - Thanks all......
+17:59:35	 From Richa Sharma : Happy Friday Everyone!
+17:59:36	 From Jaya : Thanks Harpreet
+17:59:36	 From Vikram Krishna Kotturu : Thank you so much guys for sharing the learnings

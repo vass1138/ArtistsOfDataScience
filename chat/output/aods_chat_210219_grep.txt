@@ -1,0 +1,20 @@
+16:53:14	 From Greg Coquillo : https://www.linkedin.com/posts/greg-coquillo_datascience-machinelearning-artificialintelligence-activity-6760977800963985408-ys5y
+16:58:41	 From Joe Reis : https://www.youtube.com/watch?v=o4q_ljRkXqw
+17:06:24	 From Mikiko Bazeley : A resource I thought was really helpful for understanding partitioning: https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch06.html
+17:07:55	 From Mikiko Bazeley : @Russell: Snowkflake claims too I believe (https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions.html)
+17:12:50	 From Mark Freeman : Have you checked out the stats flow chart in the latest newsletter? Itâs amazing! https://drive.google.com/file/d/1qkURyDrEa4IkQRm0in26CNIpP84ws0Tf/view
+17:13:51	 From Harpreet Sahota : https://realpython.com/numpy-scipy-pandas-correlation-python/
+17:14:02	 From Mitul Patel : https://easystats.github.io/correlation/articles/types.html in R
+17:17:07	 From Mark Freeman : Also, there is the Predictive Power Score: https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598
+17:24:25	 From Mikiko Bazeley : https://realpython.com/courses/python-lambda-functions/
+17:24:35	 From Mikiko Bazeley : https://learn.datacamp.com/courses/streaming-data-with-aws-kinesis-and-lambda
+17:25:43	 From Mark Freeman : Lambda Doc as I always get lost in AWS docs: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.html
+17:26:54	 From Mark Freeman : There I goâ¦ getting lost in AWS docs again. Here is the real link: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+17:28:14	 From Mikiko Bazeley : Last year/year before: https://www.forbes.com/sites/emmawoollacott/2019/09/10/linkedin-data-scraping-ruled-legal/?sh=a0f2baa1b54b
+17:28:20	 From Joe Reis : https://www.eff.org/deeplinks/2019/09/victory-ruling-hiq-v-linkedin-protects-scraping-public-data
+17:36:32	 From Mark Freeman : CRISP-DM: https://www.datascience-pm.com/crisp-dm-2/
+17:49:05	 From Mikiko Bazeley : @Ashoordin: https://www.linkedin.com/posts/crmercado_datascience-deeplearning-artificialintelligence-activity-6767800296333811712-Jf8r
+17:54:20	 From Mark Freeman : 5 Steps of Design Thinking: https://voltagecontrol.com/blog/5-steps-of-the-design-thinking-process-a-step-by-step-guide/
+17:54:45	 From Mark Freeman : Startup Lean Launchpad: https://steveblank.com/category/lean-launchpad/
+17:57:27	 From Vikram Krishna Kotturu : Here's the link:https://join.slack.com/t/artofdatascienceloft/shared_invite/zt-dgzn8abm-ge_dKGxrc9Dsuhnly90WTw
+17:57:45	 From Harpreet Sahota : https://join.slack.com/t/artofdatascienceloft/shared_invite/zt-dgzn8abm-ge_dKGxrc9Dsuhnly90WTw
